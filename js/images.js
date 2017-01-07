@@ -9,9 +9,9 @@ jQuery(function($){
 
 					// Components							
 					slides 					:  	[			// Slideshow Images
-													{image : 'https://images-na.ssl-images-amazon.com/images/I/91ATd8cL3qL._SL1500_.jpg'},
-													{image : 'https://images-na.ssl-images-amazon.com/images/I/91rvDMSVuoL._SL1500_.jpg'},
-													{image : 'https://images-na.ssl-images-amazon.com/images/I/91nCUMqDXEL._SL1500_.jpg'},
+													{image : 'images/001.jpg'},
+													{image : 'images/002.jpg'},
+													{image : 'images/003.jpg'},
 												]
 					
 				});
