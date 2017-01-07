@@ -9,9 +9,9 @@ jQuery(function($){
 
 					// Components							
 					slides 					:  	[			// Slideshow Images
-													{image : './images/background/001.jpg'},
-													{image : './images/background/002.jpg'},
-													{image : './images/background/003.jpg'},
+													{image : '../images/background/001.jpg'},
+													{image : '../images/background/002.jpg'},
+													{image : '../images/background/003.jpg'},
 												]
 					
 				});
